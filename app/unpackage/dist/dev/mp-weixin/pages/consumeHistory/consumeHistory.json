@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "历史消费",
+  "usingComponents": {
+    "tab-bar": "../../components/tabBar/tabBar"
+  }
+}

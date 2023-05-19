@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "谈论圈",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "nav-bar-bating-circle": "../../components/navBar/navBarBatingCircle",
+    "publish": "../../components/datingCircle/Publish",
+    "landlord": "../../components/datingCircle/Landlord",
+    "tab-bar": "../../components/tabBar/tabBar"
+  }
+}

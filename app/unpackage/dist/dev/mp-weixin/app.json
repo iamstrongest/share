@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/sportShop/sportShop",
+    "pages/my/my",
+    "pages/consumeHistory/consumeHistory",
+    "pages/datingCircles/datingCircles",
+    "pages/sportCart/sportCart",
+    "pages/login/login",
+    "pages/confirm/confirm",
+    "pages/payment/payment",
+    "pages/paymentMethods/paymentMethods",
+    "pages/account/account",
+    "pages/paySuccess/paySuccess",
+    "pages/details/details",
+    "pages/registry/registry",
+    "pages/findPwd/findPwd",
+    "pages/search/search",
+    "pages/set/set"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/datingCircles/datingCircles"
+      },
+      {
+        "pagePath": "pages/my/my"
+      },
+      {
+        "pagePath": "pages/sportCart/sportCart"
+      },
+      {
+        "pagePath": "pages/sportShop/sportShop"
+      },
+      {
+        "pagePath": "pages/consumeHistory/consumeHistory"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

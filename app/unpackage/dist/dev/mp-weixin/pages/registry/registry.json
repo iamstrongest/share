@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "手机注册",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "line": "../../components/common/Line"
+  }
+}

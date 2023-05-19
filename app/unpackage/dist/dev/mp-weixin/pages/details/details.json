@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "器材详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "text-card": "../../components/common/TextCard",
+    "equipment-card": "../../components/common/EquipmentCard"
+  }
+}

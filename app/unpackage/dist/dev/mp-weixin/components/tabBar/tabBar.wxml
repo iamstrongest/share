@@ -1,0 +1,1 @@
+<view class="tabBar_contianer data-v-c497a889"><view wx:for="{{a}}" wx:for-item="item" wx:key="c" class="common_icon data-v-c497a889" bindtap="{{item.d}}"><view class="image data-v-c497a889"><image class="data-v-c497a889" src="{{item.a}}" mode=""></image></view><view class="text data-v-c497a889"><text class="data-v-c497a889">{{item.b}}</text></view></view></view>

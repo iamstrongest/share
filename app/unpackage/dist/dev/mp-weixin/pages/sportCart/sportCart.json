@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "收藏室",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "collection-equipment": "../../components/common/CollectionEquipment",
+    "nav-bar-collect-cart": "../../components/navBar/navBarCollectCart",
+    "tab-bar": "../../components/tabBar/tabBar"
+  }
+}

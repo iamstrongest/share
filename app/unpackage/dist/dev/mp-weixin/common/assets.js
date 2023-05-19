@@ -1,0 +1,17 @@
+"use strict";
+const _imports_0$3 = "/static/images/vxPay.png";
+const _imports_1$3 = "/static/images/aliPay.png";
+const _imports_0$2 = "/static/images/collect.png";
+const _imports_1$2 = "/static/images/collect_active.png";
+const _imports_0$1 = "/static/images/subtract.png";
+const _imports_1$1 = "/static/images/add.png";
+const _imports_0 = "/static/images/publish.png";
+const _imports_1 = "/static/images/cancle.png";
+exports._imports_0 = _imports_0$3;
+exports._imports_0$1 = _imports_0$2;
+exports._imports_0$2 = _imports_0$1;
+exports._imports_0$3 = _imports_0;
+exports._imports_1 = _imports_1$3;
+exports._imports_1$1 = _imports_1$2;
+exports._imports_1$2 = _imports_1$1;
+exports._imports_1$3 = _imports_1;

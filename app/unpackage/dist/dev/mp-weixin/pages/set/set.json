@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "设置",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "mask": "../../components/common/Mask"
+  }
+}

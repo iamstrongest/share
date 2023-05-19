@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "租借室",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tab-bar": "../../components/tabBar/tabBar",
+    "equipment-card": "../../components/common/EquipmentCard",
+    "nav-search": "../../components/navBar/navSearch"
+  }
+}

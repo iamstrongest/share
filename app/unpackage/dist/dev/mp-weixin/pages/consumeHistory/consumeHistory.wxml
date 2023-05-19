@@ -1,0 +1,1 @@
+<view class="history_container data-v-30930065"><view class="top data-v-30930065"><view class="success data-v-30930065" bindtap="{{a}}">已支付</view><view class="fail data-v-30930065" bindtap="{{b}}">待支付</view></view><view class="data_show data-v-30930065"></view><tab-bar wx:if="{{c}}" class="data-v-30930065" u-i="30930065-0" bind:__l="__l" u-p="{{c}}"></tab-bar></view>

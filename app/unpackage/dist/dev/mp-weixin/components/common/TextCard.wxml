@@ -1,0 +1,1 @@
+<view class="text_container"><text class=""> -- </text><text style="{{'color:' + b}}">{{a}}</text><text class=""> -- </text></view>
